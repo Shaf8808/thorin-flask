@@ -1,3 +1,6 @@
+curl https://cli-assets.heroku.com/install.sh | sh - Install Heroku CLI in terminal
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome,
